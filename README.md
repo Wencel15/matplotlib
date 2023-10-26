@@ -1,10 +1,11 @@
 # Matplotlib
 #Criando um histograma com a função subplots()
-## Para instalar a Matplotlib
-### $ python -m pip install -U matplotlib
+# Para instalar a Matplotlib
+# $ python -m pip install -U matplotlib
 
 
 #importando modulos
+
 import numpy as np
 from matplotlib import pyplot as plt
 import matplotlib.ticker as ticker
