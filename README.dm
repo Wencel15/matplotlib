@@ -4,4 +4,6 @@
 
  $ python -m pip install -U matplotlib
 
+# chamando Marplorlib no codigo
 
+from matplotlib import pyplot as plt
